@@ -1,0 +1,10 @@
+.counter-output {
+  width: 100%;
+  height: 35px;
+  background: #0091ea;
+  font-family: "Vazir-FD";
+  color: #fff;
+  padding-top: 15px;
+  display: block;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,12 @@
+.counter-control {
+  display: inline-block;
+  margin: 10px 15px;
+  width: 65px;
+  background: #fff;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  font-family: "Vazir-FD";
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+}
