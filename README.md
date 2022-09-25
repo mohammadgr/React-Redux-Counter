@@ -1,2 +1,1 @@
-# google-login-form
-Created with CodeSandbox
+# Develop Counter mini project with react-readux
